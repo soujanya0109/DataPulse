@@ -1,0 +1,6 @@
+{
+  "name": "DataPulse: Intelligence Hub",
+  "description": "An interactive data science playground for automated EDA, visualization, and AI-powered data storytelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Data Analysis", "Interactive Visualizations"]
+}
